@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
-    <wb-module deploy-name="exploring-servlets">
+        
+    <wb-module deploy-name="exploringservlets">
+                
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+                
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
-        <property name="context-root" value="exploring-servlets"/>
-        <property name="java-output-path" value="/exploring-servlets/build/classes"/>
+                
+        <property name="java-output-path" value="/exploringservlets/build/classes"/>
+        <property name="context-root" value="exploringservlets"/>
+            
     </wb-module>
+    
 </project-modules>
